@@ -1,0 +1,50 @@
+* {
+    font-family: "Arial", "Tahoma", sans-serif;
+}
+
+body {
+    width: 1000px;
+    margin: 0px auto;
+}
+
+img {
+    display: block;
+    margin: 0px auto;
+}
+
+.cheesecake {
+    height: auto;
+    width: 300;
+}
+
+.steak {
+    height: auto;
+    width: 240;
+}
+
+.zucchini {
+    height: auto;
+    width: 320;
+}
+
+h1 {
+    color: rgb(0, 83, 14);
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+div {
+    background-color: rgb(201, 201, 201);
+    width: 500px;
+    margin: 0px auto;
+    padding: 1px 20px;
+}
+
+.source {
+    color: blue;
+    font-weight: 700;
+    text-align: center;
+}
